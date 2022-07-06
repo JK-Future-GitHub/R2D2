@@ -1,10 +1,8 @@
 # R2D2
 ### ➭ The electric replica of R2D2
+#### I highly recommend watching the videos 'R2D2_start_and_shutdown_system.mp4' & 'R2D2_is_afraid_of_DarthVader.mp4' to experience the full beauty of the project.
 
 <img src="png/R2D2_cover.png" width="546" height="680">
-
-
-## I highly recommend watching the videos 'R2D2_start_and_shutdown_system.mp4' & 'R2D2_is_afraid_of_DarthVader.mp4' to experience the full beauty of the project.
 
 #### Here is some information about the R2D2 replica (detailed information in the documentation 'R2D2_doku_german.pdf'):
 
